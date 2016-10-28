@@ -30,8 +30,13 @@ Note - Maker sure to enable "short_open_tag=On" in your 'php.ini' file.
 	
 4. Now login with the following credentials
 
-	username - channaveer
-	password - channaveer
+	Untuk Manager
+	username - manager1
+	password - manager1
+	
+	Untuk Receptionist
+	username - receptionist1
+	password - receptionist1
 
 Note - Apart from Reservation option I have checked rest of the things which are working fine.
 
